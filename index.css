@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.page1
+{
+    background-color: orange;
+    height: 100vh;
+}
+.page2
+{
+    background-color: lightblue;
+    height: 100vh;
+}
+.image1
+{
+    max-width: 70%;
+    height: 100vh;
+    margin: 0;
+}
+.steun
+{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 50px;
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'EloquiaDisplay-ExtraBold';
+}
+@font-face {
+    font-family: 'EloquiaDisplay-ExtraBold';
+    src: url('font/EloquiaDisplayExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+.embed
+{
+    justify-content: left;
+}
