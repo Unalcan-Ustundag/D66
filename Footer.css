@@ -1,0 +1,14 @@
+footer
+{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas: 
+        "footer1 footer2 footer3 footer4"
+        "footer footer footer footer" 
+    ;
+}
+
+.footer-bottom{
+    grid-area: footer;
+}
