@@ -35,7 +35,7 @@
         </div>
     </footer>
 
-    <div>
+    <div class="footer-bottom">
         <p>&copy; <?php echo date("Y"); ?> D66. Alle rechten voorbehouden.</p>
         <p><a href="#">Privacybeleid</a> | <a href="#">Algemene Voorwaarden</a></p>
     </div>
