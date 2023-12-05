@@ -7,7 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php include 'header.php'
+<?php include 'Header.php';
+include 'Footer.php';
 ?>
 </body>
 </html>
