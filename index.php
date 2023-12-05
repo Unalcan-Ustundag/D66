@@ -13,23 +13,6 @@
         <?php include 'Header.php';?>
     </header>
     <main>
-        BLAH BLAHs
-    </main>
-    <footer>
-        <?php include 'Footer.php'; ?>
-    </footer>
-</body>
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
-    <title>Document</title>
-</head>
-
-<body>
-    <?php include 'header.php'
-    ?>
     <div>
         <div class="page1">
 
@@ -44,6 +27,16 @@
         <div class="page2">
         </div>
     </div>
+    </main>
+    <footer>
+        <?php include 'Footer.php'; ?>
+    </footer>
 </body>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
 </html>
