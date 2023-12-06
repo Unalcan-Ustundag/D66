@@ -6,17 +6,21 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="Footer.css">
     <link rel="stylesheet" href="Header.css">
+    <link rel="stylesheet" href="leden.css">
 </head>
 <body>
 <header>
     <?php include 'Header.php';?>
 </header>
-<main>
-    <div>
-        <div class="teamlid1">
-            <img class="robj" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fd66.nl%2Fmensen%2Frob-jetten%2F&psig=AOvVaw1LDsVs82SGh0z1KvctH0AU&ust=1701954906266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDcjp_y-oIDFQAAAAAdAAAAABAE">
-        </div>
+<main class="teamleden">
+<div class="pagetitle">
+    <h1>Teamleden</h1>
+</div>        
+            <img class="robj" src="images/RobJetten-D66-Lijsttrekker-e1698062003680.webp">
+            <img class="arrow1" src="images/arrow-symbol-arrow-the-left-arrow-svg-png-icon-download-9.png">
+            <section class="robinfo">rob</section>
     </div>
+    
 </main>
 <footer>
     <?php include 'Footer.php'; ?>
