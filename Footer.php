@@ -19,7 +19,6 @@
 </div>
 <div class="Mensen">
     <h3>Onze Mensen</h3>
-        Onze Leiders<br><br><br>
         Ons Team<br><br><br>
         Fractieleden<br><br><br>
     
