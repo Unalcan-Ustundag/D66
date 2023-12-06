@@ -4,8 +4,7 @@ body{
     grid-template-areas: 
         "header"
         "main"
-        "footer"                    
-    ;
+        "footer";
 }
 
 header{
