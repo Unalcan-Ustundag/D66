@@ -1,34 +1,34 @@
 
 <div class="contact">
     <h3>Contact</h3>
-        [D66 Partijnaam]<br>
-        [Adres]<br>
-        [Telefoonnummer]<br>
-        [E-mailadres]
+        [D66]<br><br>
+        Landelijk Bureau D66<br><br>
+        [Adres]<br><br>
+        Lange Houtstraat 11<br>
+        2511 CV Den Haag<br><br>
+        [Telefoonnummer]<br><br>
+        070-3566066<br><br>
+        [E-mailadres]<br><br>
+        D66@politiek.nl
 </div>
 <div class="D66">
     <h3>Wat vindt D66</h3>
-    <ul>
-        <li>Standpunten</li>
-        <li>Nieuws & Updates</li>
-        <li>Persberichten</li>
-    </ul>
+        Standpunten<br><br><br>
+        Nieuws & Updates<br><br><br>
+        Persberichten<br><br><br>
 </div>
 <div class="Mensen">
     <h3>Onze Mensen</h3>
-    <ul>
-        <li>Onze Leiders</li>
-        <li>Ons Team</li>
-        <li>Fractieleden</li>
-    </ul>
+        Onze Leiders<br><br><br>
+        Ons Team<br><br><br>
+        Fractieleden<br><br><br>
+    
 </div>
 <div class="Meedoen">
     <h3>Meedoen</h3>
-    <ul>
-        <li>Lid worden</li>
-        <li>Vrijwilligerswerk</li>
-        <li>Donaties</li>
-    </ul>
+        Lid worden<br><br><br>
+        Vrijwilligerswerk<br><br><br>
+        Donaties<br><br><br>
 </div>    
 <div class="footer-bottom">
     <p>&copy; <?php echo date("Y"); ?> D66. Alle rechten voorbehouden.</p>

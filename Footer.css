@@ -1,14 +1,19 @@
 footer
 {
+    color:white;
+    background-color: black;
+    padding-top: 150px;
+    padding: 125px;
     display: grid;
     grid-template-columns: repeat(4, auto);
     grid-template-rows: repeat(2, auto);
     grid-template-areas: 
         "footer1 footer2 footer3 footer4"
-        "footer footer footer footer" 
-    ;
+        "footer footer footer footer";
 }
 
 .footer-bottom{
     grid-area: footer;
+    padding-left: 35%;
+    padding-top: 250px;
 }
