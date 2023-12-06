@@ -15,11 +15,11 @@
 <main class="teamleden">
 <div class="pagetitle">
     <h1>Teamleden</h1>
-</div>        
-            <img class="robj" src="images/RobJetten-D66-Lijsttrekker-e1698062003680.webp">
-            <img class="arrow1" src="images/arrow-symbol-arrow-the-left-arrow-svg-png-icon-download-9.png">
-            <section class="robinfo">rob</section>
-    </div>
+</div>  
+<div ><h1 class="naam1">Rob Jetten</h1>
+        <img class="robj" src="images/d66-mensen-rob-jetten-landscape-scaled-e1700736255492.png">
+
+</div>
     
 </main>
 <footer>

@@ -2,24 +2,20 @@
 {
     height: 300px;
     padding-left: 300px;
-    padding-top: 250px;
+    border-top: 250px;
 }
-.arrow1
+.naam1
 {
-    padding-bottom: 150px;
-    height: 50px;
-}
-.robinfo
-{
-    background-color: #ffd700;
-    
+    padding-left: 300px;
 }
 .teamleden
 {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: #f0e3ce;
 }
 .pagetitle
 {
+    font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     padding-left: 600px;
     padding-top: 150px;
