@@ -1,23 +1,4 @@
-.robj
-{
-    width: 1000px;
-    padding-left: 700px;
-    border-top: 250px;
-}
-.naam1
-{
-    padding-left: 700px;
-}
-.naam2
-{
-    float: right ;
-    padding-top: 400px;    
-}
-.sigridk
-{
-    float: right;
-    padding-right: 500px;
-}
+
 .teamleden
 {
     font-family: Arial, Helvetica, sans-serif;
@@ -25,8 +6,28 @@
 }
 .pagetitle
 {
+    align-items: center;
+    grid-area: title;
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
-    padding-left: 1100px;
-    padding-top: 100px;
+}
+
+.lidg
+{
+    grid-area: lid5;
+    align-items: center;
+
+}
+.lid1
+{
+    grid-area: lid1;
+}
+.leden{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "title title title title"
+    "lid5 lid6 lid7 lid8"
+    "lid1 lid2 lid3 lid4";
 }

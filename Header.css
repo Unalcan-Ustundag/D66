@@ -38,9 +38,10 @@
     width: 20px;
     height: auto;
 }
-.header
+header
 {
     background-color: transparent;
-    position: absolute;
+    position: fixed;
+    top:0px;
     animation: slideDown 0.3s ease-in-out;
 }
