@@ -3,8 +3,9 @@
     height: 70px;
     margin-left: 50px;
     margin-top: 20px;
+    cursor: pointer;
 }
-.menu, .search {
+.menu {
     background-color: black;
     margin-left: 400px;
     margin-top: -50px;
@@ -17,6 +18,7 @@
     justify-content: space-between;
     font-weight: bold;
     font-size: 20px;
+    cursor: pointer;
 }
 
 .search {
@@ -32,6 +34,7 @@
     justify-content: space-between;
     font-weight: bold;
     font-size: 20px;
+    cursor:text;
 }
 
 .search-icon, .menu-icon {
