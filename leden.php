@@ -17,14 +17,15 @@
         <div class="pagetitle">
             <h1>Teamleden</h1>
         </div>  
-        <div class="lidg">
-            <h1 class="naam1">Rob Jetten</h1>
-            <img class="robj" src="images/RobJetten-D66-Lijsttrekker-e1698062003680.webp">
-        </div>
-        <div class="lid1">
-        <h3 class="naam2">Sigrid Kaag</h3>
-        <img class="sigridk" src="images/xACCZCoR_400x400.jpg"></img>
-        </div>
+        <a class="lidg" href="https://d66.nl/mensen/rob-jetten/">
+            <img class="robj" src="images/robjetten.jpg">
+            <div class="naam1">Rob Jetten<br><br><h2 class="info1">Partijleider, demissionair <br>minister voor Klimaat en <br> Energie</h2></div>
+
+        </a>
+        <a class="lid1" href="https://d66.nl/mensen/sigrid-kaag/">
+            <img class="sigridk" src="images/xACCZCoR_400x400.jpg"> 
+            <h1 class="naam2">Sigrid Kaag</h1>
+        </a>
         <div class="lid2"></div>
         <div class="lid3"></div>
         <div class="lid4"></div>
