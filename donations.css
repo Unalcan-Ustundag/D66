@@ -1,0 +1,14 @@
+.donations
+{
+    height: 100vh;
+    background-color: orange;
+}
+body
+{
+    margin: 0;
+}
+.imgdonation
+{
+    width: 1000px;
+    height: 100vh;
+}
