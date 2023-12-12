@@ -1,20 +1,23 @@
 .robj
 {
-    padding-top: 20px;
-    width: 250px;
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 80%;
 }
 .naam1
 {
     font-size: xx-large;
     font-weight: bolder;
+    text-align: center;
 }
 .info1
 {
+    text-align: center;
     font-size: x-large;
 }
 a
 {
-    padding-left: 25px;
+    max-width: 100%;
     text-decoration: none;
 }
 a:visited
@@ -23,8 +26,20 @@ a:visited
 }
 .sigridk
 {
-    padding-top: 20px;
-    width: 250px;
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam2
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info2
+{
+    text-align: center;
+    font-size: x-large;
 }
 .teamleden
 {
@@ -40,15 +55,31 @@ a:visited
 
 .lidg
 {
-    grid-area: lid6;
+    grid-area: lid5;
     background-color: #FF6961;
     border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.lid
+{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .lid1
 {
-    grid-area: lid7;
+    grid-area: lid6;
     background-color: #C3B1E1;
     border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
 }
 .leden{
     display: grid;
@@ -59,4 +90,166 @@ a:visited
     "title title title title"
     "lid5 lid6 lid7 lid8"
     "lid1 lid2 lid3 lid4";
+}
+.lid2
+{
+    grid-area: lid7;
+    background-color: #5aa9e6;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.francw
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam3
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info3
+{
+    font-size: x-large;
+    text-align: center;
+}
+.lid3
+{
+    grid-area: lid8;
+    background-color: #ffef9f;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.robbertd
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam4
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info4
+{
+    font-size: x-large;
+    text-align: center;
+}
+.lid4
+{
+    grid-area: lid1;
+    background-color: #7bf1a8;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.ernstk
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam5
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info5
+{
+    font-size: x-large;
+    text-align: center;
+}
+.lid5
+{
+    grid-area: lid2;
+    background-color: #ea9ab2;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.kajsao
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam6
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info6
+{
+    font-size: x-large;
+    text-align: center;
+}
+.lid6
+{
+    grid-area: lid3;
+    background-color: #b388eb;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.alexandrah
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam7
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info7
+{
+    font-size: x-large;
+    text-align: center;
+}
+.lid7
+{
+    grid-area: lid4;
+    background-color: #eaf2d7;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 80px;
+}
+.stevenw
+{
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 80%;
+}
+.naam8
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.info8
+{
+    font-size: x-large;
+    text-align: center;
 }
