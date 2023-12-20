@@ -1,0 +1,172 @@
+.standblok
+{
+    background-color: #9f8dc8;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+.standmain
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spmain
+{
+    padding-top: 200px;
+    height: 70%;
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pageont
+{
+    font-size: 100px;
+    float: right;
+    display: flex;
+}
+.standrob
+{
+    border-radius: 25px;
+}
+.standpunt
+{
+    padding: 60px 60px 20px;
+}
+.wrapper_standpunt
+{
+    padding: 0px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper2_standpunt
+{
+    padding: 20px;
+    width: "1024";
+    height: "576";
+    background-color: #FFC654;
+    border-radius: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "titelstnd foto"
+    "infostnd foto"
+    "eisenstnd foto"
+    "knopstnd foto";
+}
+
+.klimaat
+{
+    padding: 30px 30px 0px 30px;
+    grid-area: titelstnd;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fotoK
+{
+    border-radius: 10px;
+    width: 100%;
+    grid-area: foto;
+    display: flex;
+    align-items: flex-end;
+}
+.tekst_standpunt
+{
+    padding: 10px 30px 0px 30px;
+    grid-area: infostnd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.steekwoorden
+{
+    padding: 10px 30px 0px 30px;
+    grid-area: eisenstnd;
+}
+.button_standpunt
+{
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    width: 20%;
+    grid-area: knopstnd;
+}
+.align_button
+{
+    display: flex;
+    align-items: flex-end;
+    padding-left: 30px;
+}
+.wrapper12_standpunt
+{
+    padding: 20px;
+    width: "1024";
+    height: "576";
+    background-color: #19B27D;
+    border-radius: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "titelstnd foto"
+    "infostnd foto"
+    "eisenstnd foto"
+    "knopstnd foto";
+}
+.wrapper22_standpunt
+{
+    padding: 20px;
+    width: "1024";
+    height: "576";    
+    background-color: #B7E2E7;
+    border-radius: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "titelstnd foto"
+    "infostnd foto"
+    "eisenstnd foto"
+    "knopstnd foto";
+}      
+.wrapper32_standpunt
+{
+    padding: 20px;
+    width: "1024";
+    height: "576";    
+    background-color: #9F8DC8;
+    border-radius: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "titelstnd foto"
+    "infostnd foto"
+    "eisenstnd foto"
+    "knopstnd foto";
+}      
+.wrapper42_standpunt
+{
+    padding: 20px;
+    width: "1024";
+    height: "576";    
+    background-color: #E35B6D;
+    border-radius: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas: 
+    "titelstnd foto"
+    "infostnd foto"
+    "eisenstnd foto"
+    "knopstnd foto";
+}      

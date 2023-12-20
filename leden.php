@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="Footer.css">
     <link rel="stylesheet" href="Header.css">
     <link rel="stylesheet" href="leden.css">
+    <link rel="icon" href="images/D66_logo_(2019present).png">
+    <title>D66 - De mensen van D66</title>
 </head>
 <body>
 <header>
     <?php include 'Header.php';?>
-</header>
+</header>   
 <main class="teamleden">
     <div class="leden">
         <div class="pagetitle">
@@ -64,7 +66,7 @@
                 <img class="stevenw" src="images/pZ1H16j8_400x400.jpg">
                 <div class="naam8"><br>Steven van Weyenberg<br><br><h2 class="info8">Demissionair staatssecretaris<br> Cultuur en Media	</h2></div>
             </div>
-</a>
+        </a>
     </div>
             
 </main>
