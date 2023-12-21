@@ -33,11 +33,11 @@
         <h2 class="klimaat">Klimaat, <br> natuur en <br> milieu</h2>
         <p class="txt2">D66 wil ‘eerlijk delen in een schoon land’, zoals in <br> 1972 al op onze verkiezingsposter stond. We zetten <br> volop door om de doelstelling van 60 procent CO2- <br>reductie in 2030 te…</p>
         <button class="plannenbutton">Onze plannen</button>
-        <img class="klimaatimg" src="images/klimaat-rob2 (1).png">
+        <img class="klimaatimg" src="images/klimaat-rob2.png">
     </div>
     <div class="page3">
         <h2 class="nieuws">Laatste nieuws</h2>
-        <img class="nieuwsimage" src="images/download.jpg">
+        <img class="nieuwsimage" src="images/YrJwASN9oX_sE0LUtAlv3nWyLQ8.jpg">
         <p class="txt3">Bekijk hier het Laatste <br> nieuws over D66</p>
         <button class="nieuwsbutton">Lees het nieuws</button>
     </div>
